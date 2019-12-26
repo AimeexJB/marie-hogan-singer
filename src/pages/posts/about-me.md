@@ -5,4 +5,4 @@ excerpt: A little bit about me to get you started!
 hide_header: false
 template: post
 ---
-Hello, my name is Marie Hogan, I am an Irish singer based in Dublin, Ireland.
+Hello, my name is Marie Hogan, I am an Irish singer based in Dublin, Ireland
