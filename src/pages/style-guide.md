@@ -7,7 +7,7 @@ subtitle: >-
 img_path: images/style-guide.jpg
 menus:
   main:
-    title: Style Guide
+    title: About Me
     weight: 3
 template: page
 ---
