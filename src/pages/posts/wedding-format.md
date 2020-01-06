@@ -1,5 +1,5 @@
 ---
-title: Wedding Format
+title: 'Wedding Format '
 subtitle: This is the basic wedding format for any wedding ceremony.
 date: 2020-01-06T00:00:00.000Z
 thumb_img_path: ''
