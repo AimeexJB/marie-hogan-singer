@@ -13,7 +13,7 @@ template: post
 ---
 
 
-<img align="left" src="/images/screenshot_20190528_001946.jpg" width="240" height="400" style="border: 10px solid white;"/>
+<img align="left" src="/images/screenshot_20190528_001946.jpg" width="250" height="420" style="border: 10px solid white;"/>
 
 Marie is an award winning soprano with many years of professional experience singing at weddings. 
 
