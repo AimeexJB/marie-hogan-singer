@@ -11,6 +11,10 @@ template: post
 ---
 ![](/images/screenshot_20190528_001946.jpg)
 
-**\*Write things here\***
+Marie is an award winning soprano with many years of professional experience singing at weddings. 
 
-Hello, my name is Marie Hogan, I am an Irish singer based in Dublin, Ireland
+She takes pride in helping countless couples plan and arrange music that is unique and personal to them, thus enhancing their special day.
+
+Whether you want classical, arias, traditional folk or contemporary songs, Marie is very versatile. She has sung in Operas at the National Concert Hall, been on tour with Phil Coulter and performed in Andrew Lloyd Weber's "CATS" at the O2.
+
+Marie's experience is second to none. She can tailor her voice to any style you prefer, source top quality musicians,  and give your wedding that professional sound enhancing your special day.
