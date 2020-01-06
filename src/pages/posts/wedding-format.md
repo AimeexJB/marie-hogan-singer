@@ -11,14 +11,20 @@ menus:
     weight: 3
 template: post
 ---
-### *A sample format for a Wedding may include:*
+### *A sample format for a Traditional Wedding may include:*
 
-* Entrance - "Bridal March" Wagner
+* Entrance - Organ - "Bridal March" Wagner
 * Lighting of the Candles - "Love is Patient"
 * Responsorial Psalm - "Like A Shepard"
 * Offertory - "Ave Maria"
-* Sign of Peace - "Shaloum My Friends"
-* Communion - "Pie Jesu"
+* Sign of Peace - "Shalom My Friends"
+* Communion - "Pie Jesu" 
+*  Signing of the Register - Nella Fantasia ('The Mission' soundtrack)
+* Recessional - Organ - Mendelssohn's Wedding March
+
+
+
+
 
 ### *Some of my songs:*
 
