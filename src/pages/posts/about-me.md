@@ -1,8 +1,9 @@
 ---
 title: About me
-subtitle: A little bit about me
+subtitle: ''
 date: 2020-01-06T00:00:00.000Z
 thumb_img_path: ''
+excerpt: A little bit about me
 hide_header: false
 menus:
   main:
