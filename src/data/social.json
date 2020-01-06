@@ -1,14 +1,19 @@
 {
   "links": [
     {
-      "title": "YouTube",
+      "title": "Marie Hogan Irish",
       "icon": "fa-youtube",
-      "url": "https://www.youtube.com/channel/UCUUlFUUU1hDXKnEb9EMyotw/videos?view=0&sort=dd&shelf_id=0"
+      "url": "https://www.youtube.com/user/MarieHoganIrish"
     },
     {
       "title": "Facebook",
       "icon": "fa-facebook",
       "url": "https://www.facebook.com/Mariehogansinger/"
+    },
+    {
+      "title": "Marie Redmond",
+      "icon": "fa-youtube",
+      "url": "https://www.youtube.com/channel/UCUUlFUUU1hDXKnEb9EMyotw/videos?view=0&sort=dd&shelf_id=0"
     }
   ]
 }
