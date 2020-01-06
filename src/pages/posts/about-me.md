@@ -1,7 +1,7 @@
 ---
 title: About me
 date: 2020-01-06T00:00:00.000Z
-thumb_img_path: /images/flowers.jpg
+thumb_img_path: ''
 hide_header: false
 menus:
   main:
@@ -9,4 +9,8 @@ menus:
     weight: 3
 template: post
 ---
-this is about me
+![](/images/screenshot_20190528_001946.jpg)
+
+**\*Write things here\***
+
+Hello, my name is Marie Hogan, I am an Irish singer based in Dublin, Ireland
